@@ -162,7 +162,7 @@ ORDER BY Qtd_total_vendida DESC;
 ```sql
 -- Ranking de vendas por vendedor (valor)
 SELECT ve.id_vendedor, v.nome, SUM(valor_total_venda) AS Valor_total,
-ROUND((SUM(valor_total_venda)*100.0)/(SELECT SUM(valor_total_venda) FROM Vendas), 2) as Percentual_sobre_total
+ROUND((SUM(valor_total_venda)*100.0)/(SELECT SUM(valor_total_venda) FROM Vendas), 2) AS Percentual_sobre_total
 FROM Vendas ve
 INNER JOIN Vendedores v
 ON ve.id_vendedor = v.id_vendedor
