@@ -43,3 +43,9 @@ As conclusões e insights estratégicos obtidos a partir das análises não fora
 > Esses resultados fazem parte da minha expertise profissional em análise de dados e tomada de decisão, sendo apresentados apenas em contextos adequados, como discussões técnicas, entrevistas ou apresentações direcionadas.
 
 ---
+
+📌 Autor: Marianna Fernandes Salviano
+🎯 Propósito: Projeto para portfólio e processos seletivos.
+**Observação**: Este dashboard representa apenas um exemplo do que posso desenvolver em Power BI.
+Possuo conhecimento sólido em modelagem de dados, DAX, visual design e boas práticas de BI — minhas entregas não se limitam a este modelo.
+Projetos mais completos, análises avançadas e insights estratégicos são apresentados conforme o contexto, especialmente em processos seletivos e discussões técnicas.
