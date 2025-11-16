@@ -8,6 +8,18 @@ Para visualizar o dashboard completo verifique o documento Dashboard Power BI pr
 
 ---
 
+## 🧩 Descrição do Projeto
+
+O dashboard apresenta:
+
+- Visão geral dos principais indicadores
+- Ranking de produtos/categorias
+- Evolução temporal dos resultados
+- Comparações de desempenho
+- Análises detalhadas por segmento/área
+
+---
+
 ## 🛠️ Ferramentas Utilizadas
 
 - **Power BI Desktop**
@@ -32,3 +44,4 @@ Para visualizar o dashboard completo verifique o documento Dashboard Power BI pr
 As conclusões e insights estratégicos obtidos a partir das análises não foram incluídos neste repositório.  
 > Esses resultados fazem parte da minha expertise profissional em análise de dados e tomada de decisão, sendo apresentados apenas em contextos adequados, como discussões técnicas, entrevistas ou apresentações direcionadas.
 
+---
