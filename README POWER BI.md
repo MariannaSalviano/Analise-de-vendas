@@ -47,4 +47,4 @@ As conclusões e insights estratégicos obtidos a partir das análises não fora
 ---
 
 📌 Autor: Marianna Fernandes Salviano
-🎯 Propósito: Projeto para portfólio e processos seletivos.
+🎯 Propósito: Projeto analítico para portfólio e processos seletivos.
