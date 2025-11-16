@@ -6,6 +6,8 @@ Este dashboard tem como propósito apoiar decisões estratégicas por meio de an
 
 Para visualizar o dashboard completo verifique o documento Dashboard Power BI presente neste repositório.
 
+Este dashboard representa apenas um exemplo do que posso desenvolver em Power BI. Possuo conhecimento sólido em modelagem de dados, DAX, visual design e boas práticas de BI — minhas entregas não se limitam a este modelo. Projetos mais completos, análises avançadas e insights estratégicos são apresentados conforme o contexto, especialmente em processos seletivos e discussões técnicas.
+
 ---
 
 ## 🧩 Descrição do Projeto
@@ -46,6 +48,3 @@ As conclusões e insights estratégicos obtidos a partir das análises não fora
 
 📌 Autor: Marianna Fernandes Salviano
 🎯 Propósito: Projeto para portfólio e processos seletivos.
-**Observação**: Este dashboard representa apenas um exemplo do que posso desenvolver em Power BI.
-Possuo conhecimento sólido em modelagem de dados, DAX, visual design e boas práticas de BI — minhas entregas não se limitam a este modelo.
-Projetos mais completos, análises avançadas e insights estratégicos são apresentados conforme o contexto, especialmente em processos seletivos e discussões técnicas.
