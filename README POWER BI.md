@@ -12,20 +12,18 @@ Para visualizar o dashboard completo verifique o documento Dashboard Power BI pr
 
 O dashboard apresenta:
 
-- Visão geral dos principais indicadores
-- Ranking de produtos/categorias
-- Evolução temporal dos resultados
-- Comparações de desempenho
-- Análises detalhadas por segmento/área
-
+- Performance das vendas.
+- Comparativo da performance atual com ano anterior.
+- Ranking de vendas da série histórica.
+  
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
-- **Power BI Desktop**
-- **Power Query**
-- **DAX (Data Analysis Expressions)**
-- **Excel / CSV /(conforme a base utilizada)**
+- Power BI Desktop.
+- Power Query.
+- DAX (Data Analysis Expressions).
+- Excel / CSV /(conforme a base utilizada).
 
 ---
 
