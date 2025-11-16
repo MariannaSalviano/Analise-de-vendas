@@ -4,6 +4,8 @@ A base de dados utilizada neste projeto é fictícia, elaborada exclusivamente p
 
 Este dashboard tem por objetivo apresentar o desempenho comercial, identificar produtos e categorias de maior impacto, avaliar a eficiência das estratégias comerciais, apoiar decisões de estoque e precificação, prever tendências e planejar metas futuras. 
 
+Este README faz referência ao documento Dashboard Power BI presente neste repositório. Para visualizar o dashboard completo verifique este documento.
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
@@ -25,6 +27,4 @@ Este dashboard tem por objetivo apresentar o desempenho comercial, identificar p
 
 ---
 
-## 📷 Screenshots
 
-<img width="1154" height="557" alt="image" src="https://github.com/user-attachments/assets/6fe9e7bf-cb8e-4a2b-af73-0ec89d93e72e" />
