@@ -38,6 +38,7 @@ CREATE TABLE "Vendedores" (
 
 ```sql
 -- Evolução do faturamento por ano
+CREATE VIEW ViewEvolucaoAno AS
 SELECT 
     strftime('%Y', data_venda) AS Ano, 
     SUM(valor_total_venda) AS Valor_total_vendido
@@ -49,6 +50,7 @@ ORDER BY Ano;
 
 ```sql
 -- Evolução do faturamento por trimestre por ano
+CREATE VIEW ViewEvolucaoFatTri AS
 SELECT strftime('%Y', data_venda) AS Ano, 
 	   CASE
        	  WHEN CAST (strftime('%m', data_venda) AS INTEGER) BETWEEN 1 AND 3 THEN '1ºTRI'
@@ -149,6 +151,7 @@ ORDER BY Valor_total_vendido DESC;
 
 ```sql
 -- Ranking de vendas por vendedor (quantidade)
+CREATE VIEW ViewVendasPorVendedor AS
 SELECT ve.id_vendedor, v.nome, SUM(quantidade_vendida) AS Qtd_total_vendida,
 ROUND((SUM(quantidade_vendida)*100.0)/(SELECT SUM(quantidade_vendida) FROM Vendas), 2) AS Percentual_sobre_total
 FROM Vendas ve
@@ -176,6 +179,7 @@ ORDER BY Valor_total DESC;
 -- Fórmula padrão: Faturamento total/ número de vendas
 -- Aqui não usei o distinct, pois estou fazendo o ticket médio por venda e não por cliente
 
+CREATE VIEW ViewTicketMedio AS
 SELECT ROUND(SUM(quantidade_vendida * valor_unitario) 
        / COUNT(id_venda),2) AS Ticket_medio_por_venda
 FROM Vendas;
